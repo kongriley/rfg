@@ -1,8 +1,7 @@
 # RFG
 
-Hi! This is the repo of RFG (also called Planes vs. Ships)!
-Commits are welcome.
+Hi! This is RFG (also called Planes vs. Ships)!
 
-If you want to help, please fork & pull.
+If you want to help, please contact us at wfrankw9@gmail.com.
 
 Thanks!
