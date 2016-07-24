@@ -1,6 +1,6 @@
 # RFG
 
-Hi! This is RFG (also called Planes vs. Ships)!
+Hi! This is RFG!
 
 If you want to help, please contact us at wfrankw9@gmail.com.
 
